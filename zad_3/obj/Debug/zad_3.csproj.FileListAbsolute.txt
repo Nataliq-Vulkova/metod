@@ -1,0 +1,7 @@
+C:\Users\1409-12\Desktop\Наталия 9а\metodi\zad_3\bin\Debug\zad_3.exe.config
+C:\Users\1409-12\Desktop\Наталия 9а\metodi\zad_3\bin\Debug\zad_3.exe
+C:\Users\1409-12\Desktop\Наталия 9а\metodi\zad_3\bin\Debug\zad_3.pdb
+C:\Users\1409-12\Desktop\Наталия 9а\metodi\zad_3\obj\Debug\zad_3.csproj.AssemblyReference.cache
+C:\Users\1409-12\Desktop\Наталия 9а\metodi\zad_3\obj\Debug\zad_3.csproj.CoreCompileInputs.cache
+C:\Users\1409-12\Desktop\Наталия 9а\metodi\zad_3\obj\Debug\zad_3.exe
+C:\Users\1409-12\Desktop\Наталия 9а\metodi\zad_3\obj\Debug\zad_3.pdb
